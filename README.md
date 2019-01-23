@@ -1,5 +1,3 @@
-![Fancy](http://www.funmc.cc/frag.png)
-
 <h1>BlockMoney</h1>
 一款运行在PocketMine服务器上的插件
 
